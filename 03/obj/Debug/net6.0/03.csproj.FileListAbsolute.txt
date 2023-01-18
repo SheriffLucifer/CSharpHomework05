@@ -1,0 +1,15 @@
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+D:\GeekBrain\CSharp\Homework05\03\bin\Debug\net6.0\03.exe
+D:\GeekBrain\CSharp\Homework05\03\bin\Debug\net6.0\03.deps.json
+D:\GeekBrain\CSharp\Homework05\03\bin\Debug\net6.0\03.runtimeconfig.json
+D:\GeekBrain\CSharp\Homework05\03\bin\Debug\net6.0\03.dll
+D:\GeekBrain\CSharp\Homework05\03\bin\Debug\net6.0\03.pdb
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.dll
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\refint\03.dll
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.pdb
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+D:\GeekBrain\CSharp\Homework05\03\obj\Debug\net6.0\ref\03.dll
